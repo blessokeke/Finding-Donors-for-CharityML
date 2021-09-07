@@ -9,17 +9,13 @@ The goal of this project is to evaluate and optimize several different supervise
 ### Software and Libraries
 This project uses the following software and Python libraries: 
 
-  Python
-  
-  NumPy
-  
-  pandas
-  
-  scikit-learn (v0.17)
-  
-  Matplotlib
+  1. Python
+  2. NumPy
+  3. Pandas
+  4. scikit-learn (v0.17)
+  5. Matplotlib
 
-### Project Files
+### File Description
 This project contains three files that you will need to use:
 
   **finding_donors.ipynb:** This is the main file where you will be performing your work on the project. 
@@ -27,3 +23,8 @@ This project contains three files that you will need to use:
   **census.csv:** The project dataset. You'll load this data in the notebook.
   
   **visuals.py:** This Python script provides supplementary visualizations for the project. 
+  
+### Acknowledgments
+Many thanks to Udacity for giving me an opportunity to try out real world problems and thanks to the Data Scientists who have inspired and provided insights to me through Github and StackOverflow.
+
+This project was completed as part of the [Udacity Intro to Machine Learning with TensorFlow Nanodegree](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230?gclid=Cj0KCQjwm9yJBhDTARIsABKIcGY5iIJFiakYPd0LQY224-IBr4d_qMPseVKxLBh8ZpZtewwPDtnwTFQaAuc9EALw_wcB&utm_campaign=12355202333_c&utm_keyword=%2Bmachine%20%2Blearning%20%2Bwith%20%2Btensorflow_b&utm_medium=ads_r&utm_source=gsem_generic&utm_term=118013085356) program.
